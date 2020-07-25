@@ -19,7 +19,7 @@ A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
 
 ## Link to Application
 
-Follow [this link](https://yours-kkuznets.github.io/Coinchange-Crypto-Tracker/) to view the application.
+Follow [this link](https://shielded-garden-05097.herokuapp.com/) to view the application.
 
 ## Screenshots
 
