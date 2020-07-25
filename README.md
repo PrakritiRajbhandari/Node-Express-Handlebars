@@ -25,11 +25,8 @@ Follow [this link](https://yours-kkuznets.github.io/Coinchange-Crypto-Tracker/) 
 
 ### Desktop
 
-<img src="./assets/img/desktop.PNG" alt=" Coininchange desktop screenshot"/>
+<img src="../assets/img/desktop.PNG" alt="  desktop screenshot"/>
 
-### Mobile
-
-<img src="./assets/img/mobile.PNG" height="400" alt=" Coininchange mobile screenshot"/>
 
 ## Getting Started
 
