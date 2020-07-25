@@ -25,7 +25,7 @@ Follow [this link](https://yours-kkuznets.github.io/Coinchange-Crypto-Tracker/) 
 
 ### Desktop
 
-<img src="assets/img/desktop.PNG" alt="  desktop screenshot"/>
+<img src="assets/desktop.PNG" alt="  desktop screenshot"/>
 
 
 ## Getting Started
